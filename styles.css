@@ -12,7 +12,7 @@ h1 {
 
 body {
 	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	background-color: hsl(50, 96%, 89%);
     height: 500px;
     
 
